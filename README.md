@@ -1,2 +1,2 @@
 # F2M
-frequent patterns to Markov Networks
+frequent patterns to Markov Networks.
